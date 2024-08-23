@@ -1,4 +1,4 @@
-CodeClause Internship - Project Guidelines.
+CodeClause Internship Aug 2024- Project Guidelines.
 
 Project Details ::
 
