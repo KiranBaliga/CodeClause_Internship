@@ -14,4 +14,9 @@ Description: Create a Python script that interacts with a URL shortening service
 Technologies : Python You can use other technologies that you know. 
 What You Learn: String manipulation and algorithms, Input handling
 
+#3. Aim :Interactive Voice Assistant with User Interface. 
+Description:  Create a user-friendly voice assistant with a graphical user interface. When the user clicks the microphone button, the application should record the user's voice, process the command, and display the interpreted command on the screen. The assistant should then respond with relevant information, solutions, or feedback based on the command. 
+Technologies: Python
+What You Learn: Voice recognition integration with UI, Text-to-speech synthesis,  Handling user commands and providing appropriate feedback
+
 
